@@ -2,6 +2,8 @@
 import { LucideEye } from "lucide-react";
 import { useEffect, useState } from "react";
 import JobDetails from "./JobDetail";
+import { getJobs } from '@/app/lib/jobStore';
+
 
 type Job = {
     id: number

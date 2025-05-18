@@ -1,6 +1,7 @@
 import { NextResponse } from 'next/server';
 import { promises as fs } from 'fs';
 import path from 'path';
+import { getJobs } from '@/app/lib/jobStore';
 
 export async function GET() {
   const filePath = path.join(process.cwd(), 'public', 'data', 'job_data.json');
