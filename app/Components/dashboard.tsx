@@ -1,6 +1,6 @@
 import { Disclosure, DisclosureButton, DisclosurePanel, Menu, MenuButton, MenuItem, MenuItems } from '@headlessui/react'
-import { Bars3Icon, BellIcon, XMarkIcon } from '@heroicons/react/24/outline'
-import { Menu as MenuIcon, Bell, X } from 'lucide-react'
+import { Menu as MenuIcon, Bell, X , LucideEye} from 'lucide-react'
+import Listing from './listing'
 
 const user = {
   name: 'Tom Cook',
@@ -9,11 +9,7 @@ const user = {
     'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80',
 }
 const navigation = [
-  { name: 'Dashboard', href: '#', current: true },
-  { name: 'Team', href: '#', current: false },
-  { name: 'Projects', href: '#', current: false },
-  { name: 'Calendar', href: '#', current: false },
-  { name: 'Reports', href: '#', current: false },
+  { name: 'Dashboard', href: '#', current: true }
 ]
 const userNavigation = [
   { name: 'Your Profile', href: '#' },
@@ -28,14 +24,6 @@ const userNavigation = [
 export default function Dashboard() {
   return (
     <>
-      {/*
-        This example requires updating your template:
-
-        ```
-        <html class="h-full bg-gray-100">
-        <body class="h-full">
-        ```
-      */}
       <div className="min-h-full">
         <Disclosure as="nav" className="bg-gray-800">
           <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
@@ -110,8 +98,8 @@ export default function Dashboard() {
                 <DisclosureButton className="group relative inline-flex items-center justify-center rounded-md bg-gray-800 p-2 text-gray-400 hover:bg-gray-700 hover:text-white focus:ring-2 focus:ring-white focus:ring-offset-2 focus:ring-offset-gray-800 focus:outline-hidden">
                   <span className="absolute -inset-0.5" />
                   <span className="sr-only">Open main menu</span>
-                  <Menu aria-hidden="true" className="h-6 w-6" />
-                  <XMarkIcon aria-hidden="true" className="hidden size-6 group-data-open:block" />
+                  {/* <Menu aria-hidden="true" className="h-6 w-6" /> */}
+                  <X aria-hidden="true" className="h-6 w-6" />
                 </DisclosureButton>
               </div>
             </div>
@@ -149,7 +137,8 @@ export default function Dashboard() {
                 >
                   <span className="absolute -inset-1.5" />
                   <span className="sr-only">View notifications</span>
-                  <BellIcon aria-hidden="true" className="size-6" />
+                    <Bell aria-hidden="true" className="h-6 w-6" />
+
                 </button>
               </div>
               <div className="mt-3 space-y-1 px-2">
@@ -174,7 +163,9 @@ export default function Dashboard() {
           </div>
         </header>
         <main>
-          <div className="mx-auto max-w-7xl px-4 py-6 sm:px-6 lg:px-8">{/* Your content */}</div>
+          <div className="mx-auto max-w-7xl px-4 py-6 bg-white sm:px-6 lg:px-8 main-wrapper">
+            <Listing/>
+          </div>
         </main>
       </div>
     </>
