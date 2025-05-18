@@ -1,6 +1,9 @@
+"use client";
 import { Disclosure, DisclosureButton, DisclosurePanel, Menu, MenuButton, MenuItem, MenuItems } from '@headlessui/react'
-import { Menu as MenuIcon, Bell, X , LucideEye} from 'lucide-react'
-import Listing from './listing'
+import { Menu as MenuIcon, Bell, X, LucideEye } from 'lucide-react'
+import Listing from './Listing'
+import { useState } from 'react'
+import JobDetails from './JobDetail'
 
 const user = {
   name: 'Tom Cook',
@@ -17,11 +20,23 @@ const userNavigation = [
   { name: 'Sign out', href: '#' },
 ]
 
-// function classNames(...classes) {
-//   return classes.filter(Boolean).join(' ')
-// }
+type Job = {
+  id: number
+  title: string
+  company: string
+  location: string
+  description: string
+}
 
 export default function Dashboard() {
+  const [isDrawerOpen, setIsDrawerOpen] = useState(false);
+  const [selectedJob, setSelectedJob] = useState<Job | null>(null);
+
+  const openDrawer = (job: Job) => {
+    console.log(job);
+    setSelectedJob(job);
+    setIsDrawerOpen(true);
+  }
   return (
     <>
       <div className="min-h-full">
@@ -43,10 +58,10 @@ export default function Dashboard() {
                         key={item.name}
                         href={item.href}
                         aria-current={item.current ? 'page' : undefined}
-                        // className={classNames(
-                        //   item.current ? 'bg-gray-900 text-white' : 'text-gray-300 hover:bg-gray-700 hover:text-white',
-                        //   'rounded-md px-3 py-2 text-sm font-medium',
-                        // )}
+                      // className={classNames(
+                      //   item.current ? 'bg-gray-900 text-white' : 'text-gray-300 hover:bg-gray-700 hover:text-white',
+                      //   'rounded-md px-3 py-2 text-sm font-medium',
+                      // )}
                       >
                         {item.name}
                       </a>
@@ -137,7 +152,7 @@ export default function Dashboard() {
                 >
                   <span className="absolute -inset-1.5" />
                   <span className="sr-only">View notifications</span>
-                    <Bell aria-hidden="true" className="h-6 w-6" />
+                  <Bell aria-hidden="true" className="h-6 w-6" />
 
                 </button>
               </div>
@@ -164,10 +179,13 @@ export default function Dashboard() {
         </header>
         <main>
           <div className="mx-auto max-w-7xl px-4 py-6 bg-white sm:px-6 lg:px-8 main-wrapper">
-            <Listing/>
+            <Listing />
           </div>
         </main>
       </div>
+      {
+        isDrawerOpen && <JobDetails />
+      }
     </>
   )
 }

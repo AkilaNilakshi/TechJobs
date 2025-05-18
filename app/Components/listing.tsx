@@ -1,6 +1,7 @@
 "use client";
 import { LucideEye } from "lucide-react";
 import { useEffect, useState } from "react";
+import JobDetails from "./JobDetail";
 
 type Job = {
     id: number
@@ -12,7 +13,9 @@ type Job = {
 
 export default function Listing(){
 
-    const[jobTableData,setJobTableData] = useState<Job[]>([])
+    const[jobTableData,setJobTableData] = useState<Job[]>([]);
+    const[selectedJob,setSelectedJob] = useState<Job | null>(null);
+    const[isDrawerOpen,setIsDrawerOpen] = useState(false);
 
     useEffect(()=>{
         const getJobData = async ()=>{
@@ -20,11 +23,23 @@ export default function Listing(){
             const data = await res.json()
             setJobTableData(data)
         }
-        getJobData()
+        getJobData();
     },[])
 
-    return(
-        <table className="job-listing">
+    const openDrawer= (job: Job)=>{
+        console.log(job)
+        setSelectedJob(job);
+        setIsDrawerOpen(true);
+    }
+
+    const closeDrawer = ()=>{
+        setIsDrawerOpen(false);
+        setSelectedJob(null);
+    }
+
+    return (
+        <>
+            <table className="job-listing">
                 <thead>
                     <th>Job Title</th>
                     <th>Company</th>
@@ -33,23 +48,27 @@ export default function Listing(){
                     <th></th>
                 </thead>
                 <tbody>
-                {jobTableData.length > 0 && (
+                    {jobTableData.length > 0 && (
 
-                    jobTableData.map((job) => (
+                        jobTableData.map((job) => (
 
-                        <tr>
-                            <td>{job.title}</td>
-                            <td>{job.company}</td>
-                            <td>{job.location}</td>
-                            <td>{job.description}</td>
-                            <td><LucideEye /></td>
-                        </tr>
-                    ))
+                            <tr key={job.id}>
+                                <td>{job.title}</td>
+                                <td>{job.company}</td>
+                                <td>{job.location}</td>
+                                <td>{job.description}</td>
+                                <td><LucideEye onClick={()=>openDrawer(job)}/></td>
+                            </tr>
+                        ))
 
-                )
-                }                    
-                    
+                    )
+                    }
+
                 </tbody>
             </table>
+            {
+                isDrawerOpen && <JobDetails open={isDrawerOpen} onClose={closeDrawer} job={selectedJob}/>
+            }
+        </>
     )
 }

@@ -1,0 +1,1702 @@
+[
+  {
+    "id": 1,
+    "title": "Product Manager",
+    "company": "ByteCraft",
+    "location": "Colombo, Sri Lanka",
+    "description": "Lead product development from ideation to launch.",
+    "jobDetails": {
+      "about": "Lead product development from ideation to launch. You will work closely with the design and product teams.",
+      "salary": "$112k/year",
+      "skills": [
+        "Agile",
+        "Scrum",
+        "JIRA"
+      ],
+      "benefits": "Flexible hours, Health insurance, Remote work options"
+    }
+  },
+  {
+    "id": 2,
+    "title": "Backend Developer",
+    "company": "FusionApps",
+    "location": "Bangalore, India",
+    "description": "Develop scalable backend APIs using Node.js and Express.",
+    "jobDetails": {
+      "about": "Develop scalable backend APIs using Node.js and Express. You will work closely with the design and product teams.",
+      "salary": "$100k/year",
+      "skills": [
+        "Node.js",
+        "Express",
+        "MongoDB"
+      ],
+      "benefits": "Flexible hours, Health insurance, Remote work options"
+    }
+  },
+  {
+    "id": 3,
+    "title": "DevOps Engineer",
+    "company": "DevSolutions",
+    "location": "Tokyo, Japan",
+    "description": "Maintain CI/CD pipelines and cloud infrastructure.",
+    "jobDetails": {
+      "about": "Maintain CI/CD pipelines and cloud infrastructure. You will work closely with the design and product teams.",
+      "salary": "$56k/year",
+      "skills": [
+        "Docker",
+        "Kubernetes",
+        "AWS"
+      ],
+      "benefits": "Flexible hours, Health insurance, Remote work options"
+    }
+  },
+  {
+    "id": 4,
+    "title": "Backend Developer",
+    "company": "Creative Agency",
+    "location": "London, UK",
+    "description": "Develop scalable backend APIs using Node.js and Express.",
+    "jobDetails": {
+      "about": "Develop scalable backend APIs using Node.js and Express. You will work closely with the design and product teams.",
+      "salary": "$108k/year",
+      "skills": [
+        "Node.js",
+        "Express",
+        "MongoDB"
+      ],
+      "benefits": "Flexible hours, Health insurance, Remote work options"
+    }
+  },
+  {
+    "id": 5,
+    "title": "QA Tester",
+    "company": "NextGenSoft",
+    "location": "Remote",
+    "description": "Conduct manual and automated testing for web apps.",
+    "jobDetails": {
+      "about": "Conduct manual and automated testing for web apps. You will work closely with the design and product teams.",
+      "salary": "$69k/year",
+      "skills": [
+        "Selenium",
+        "Jest",
+        "Cypress"
+      ],
+      "benefits": "Flexible hours, Health insurance, Remote work options"
+    }
+  },
+  {
+    "id": 6,
+    "title": "QA Tester",
+    "company": "NextGenSoft",
+    "location": "Remote",
+    "description": "Conduct manual and automated testing for web apps.",
+    "jobDetails": {
+      "about": "Conduct manual and automated testing for web apps. You will work closely with the design and product teams.",
+      "salary": "$74k/year",
+      "skills": [
+        "Selenium",
+        "Jest",
+        "Cypress"
+      ],
+      "benefits": "Flexible hours, Health insurance, Remote work options"
+    }
+  },
+  {
+    "id": 7,
+    "title": "Frontend Developer",
+    "company": "Creative Agency",
+    "location": "Colombo, Sri Lanka",
+    "description": "Build responsive applications with React and Tailwind CSS.",
+    "jobDetails": {
+      "about": "Build responsive applications with React and Tailwind CSS. You will work closely with the design and product teams.",
+      "salary": "$114k/year",
+      "skills": [
+        "TypeScript",
+        "Angular",
+        "Tailwind"
+      ],
+      "benefits": "Flexible hours, Health insurance, Remote work options"
+    }
+  },
+  {
+    "id": 8,
+    "title": "Mobile App Developer",
+    "company": "FusionApps",
+    "location": "Toronto, Canada",
+    "description": "Develop cross-platform mobile applications using Flutter.",
+    "jobDetails": {
+      "about": "Develop cross-platform mobile applications using Flutter. You will work closely with the design and product teams.",
+      "salary": "$62k/year",
+      "skills": [
+        "Flutter",
+        "Dart",
+        "Firebase"
+      ],
+      "benefits": "Flexible hours, Health insurance, Remote work options"
+    }
+  },
+  {
+    "id": 9,
+    "title": "Full Stack Engineer",
+    "company": "InnovateX",
+    "location": "Sydney, Australia",
+    "description": "Collaborate across teams to deliver full-stack solutions.",
+    "jobDetails": {
+      "about": "Collaborate across teams to deliver full-stack solutions. You will work closely with the design and product teams.",
+      "salary": "$53k/year",
+      "skills": [
+        "Python",
+        "Django",
+        "PostgreSQL"
+      ],
+      "benefits": "Flexible hours, Health insurance, Remote work options"
+    }
+  },
+  {
+    "id": 10,
+    "title": "DevOps Engineer",
+    "company": "FusionApps",
+    "location": "Berlin, Germany",
+    "description": "Maintain CI/CD pipelines and cloud infrastructure.",
+    "jobDetails": {
+      "about": "Maintain CI/CD pipelines and cloud infrastructure. You will work closely with the design and product teams.",
+      "salary": "$135k/year",
+      "skills": [
+        "Docker",
+        "Kubernetes",
+        "AWS"
+      ],
+      "benefits": "Flexible hours, Health insurance, Remote work options"
+    }
+  },
+  {
+    "id": 11,
+    "title": "Product Manager",
+    "company": "CloudCore",
+    "location": "Colombo, Sri Lanka",
+    "description": "Lead product development from ideation to launch.",
+    "jobDetails": {
+      "about": "Lead product development from ideation to launch. You will work closely with the design and product teams.",
+      "salary": "$96k/year",
+      "skills": [
+        "Agile",
+        "Scrum",
+        "JIRA"
+      ],
+      "benefits": "Flexible hours, Health insurance, Remote work options"
+    }
+  },
+  {
+    "id": 12,
+    "title": "Mobile App Developer",
+    "company": "Creative Agency",
+    "location": "Bangalore, India",
+    "description": "Develop cross-platform mobile applications using Flutter.",
+    "jobDetails": {
+      "about": "Develop cross-platform mobile applications using Flutter. You will work closely with the design and product teams.",
+      "salary": "$108k/year",
+      "skills": [
+        "Flutter",
+        "Dart",
+        "Firebase"
+      ],
+      "benefits": "Flexible hours, Health insurance, Remote work options"
+    }
+  },
+  {
+    "id": 13,
+    "title": "Data Analyst",
+    "company": "Creative Agency",
+    "location": "Sydney, Australia",
+    "description": "Analyze data and generate insights to support business decisions.",
+    "jobDetails": {
+      "about": "Analyze data and generate insights to support business decisions. You will work closely with the design and product teams.",
+      "salary": "$83k/year",
+      "skills": [
+        "SQL",
+        "Excel",
+        "Power BI"
+      ],
+      "benefits": "Flexible hours, Health insurance, Remote work options"
+    }
+  },
+  {
+    "id": 14,
+    "title": "Data Analyst",
+    "company": "InnovateX",
+    "location": "Berlin, Germany",
+    "description": "Analyze data and generate insights to support business decisions.",
+    "jobDetails": {
+      "about": "Analyze data and generate insights to support business decisions. You will work closely with the design and product teams.",
+      "salary": "$132k/year",
+      "skills": [
+        "SQL",
+        "Excel",
+        "Power BI"
+      ],
+      "benefits": "Flexible hours, Health insurance, Remote work options"
+    }
+  },
+  {
+    "id": 15,
+    "title": "Frontend Developer",
+    "company": "Creative Agency",
+    "location": "Remote",
+    "description": "Build responsive applications with React and Tailwind CSS.",
+    "jobDetails": {
+      "about": "Build responsive applications with React and Tailwind CSS. You will work closely with the design and product teams.",
+      "salary": "$58k/year",
+      "skills": [
+        "TypeScript",
+        "Angular",
+        "Tailwind"
+      ],
+      "benefits": "Flexible hours, Health insurance, Remote work options"
+    }
+  },
+  {
+    "id": 16,
+    "title": "DevOps Engineer",
+    "company": "DevSolutions",
+    "location": "New York, USA",
+    "description": "Maintain CI/CD pipelines and cloud infrastructure.",
+    "jobDetails": {
+      "about": "Maintain CI/CD pipelines and cloud infrastructure. You will work closely with the design and product teams.",
+      "salary": "$125k/year",
+      "skills": [
+        "Docker",
+        "Kubernetes",
+        "AWS"
+      ],
+      "benefits": "Flexible hours, Health insurance, Remote work options"
+    }
+  },
+  {
+    "id": 17,
+    "title": "Data Analyst",
+    "company": "InnovateX",
+    "location": "London, UK",
+    "description": "Analyze data and generate insights to support business decisions.",
+    "jobDetails": {
+      "about": "Analyze data and generate insights to support business decisions. You will work closely with the design and product teams.",
+      "salary": "$144k/year",
+      "skills": [
+        "SQL",
+        "Excel",
+        "Power BI"
+      ],
+      "benefits": "Flexible hours, Health insurance, Remote work options"
+    }
+  },
+  {
+    "id": 18,
+    "title": "QA Tester",
+    "company": "ByteCraft",
+    "location": "Bangalore, India",
+    "description": "Conduct manual and automated testing for web apps.",
+    "jobDetails": {
+      "about": "Conduct manual and automated testing for web apps. You will work closely with the design and product teams.",
+      "salary": "$63k/year",
+      "skills": [
+        "Selenium",
+        "Jest",
+        "Cypress"
+      ],
+      "benefits": "Flexible hours, Health insurance, Remote work options"
+    }
+  },
+  {
+    "id": 19,
+    "title": "Machine Learning Engineer",
+    "company": "NextGenSoft",
+    "location": "Bangalore, India",
+    "description": "Build and optimize machine learning models for production.",
+    "jobDetails": {
+      "about": "Build and optimize machine learning models for production. You will work closely with the design and product teams.",
+      "salary": "$126k/year",
+      "skills": [
+        "TensorFlow",
+        "PyTorch",
+        "NumPy"
+      ],
+      "benefits": "Flexible hours, Health insurance, Remote work options"
+    }
+  },
+  {
+    "id": 20,
+    "title": "Backend Developer",
+    "company": "VisionaryTech",
+    "location": "New York, USA",
+    "description": "Develop scalable backend APIs using Node.js and Express.",
+    "jobDetails": {
+      "about": "Develop scalable backend APIs using Node.js and Express. You will work closely with the design and product teams.",
+      "salary": "$109k/year",
+      "skills": [
+        "Node.js",
+        "Express",
+        "MongoDB"
+      ],
+      "benefits": "Flexible hours, Health insurance, Remote work options"
+    }
+  },
+  {
+    "id": 21,
+    "title": "Backend Developer",
+    "company": "Creative Agency",
+    "location": "London, UK",
+    "description": "Develop scalable backend APIs using Node.js and Express.",
+    "jobDetails": {
+      "about": "Develop scalable backend APIs using Node.js and Express. You will work closely with the design and product teams.",
+      "salary": "$97k/year",
+      "skills": [
+        "Node.js",
+        "Express",
+        "MongoDB"
+      ],
+      "benefits": "Flexible hours, Health insurance, Remote work options"
+    }
+  },
+  {
+    "id": 22,
+    "title": "Full Stack Engineer",
+    "company": "VisionaryTech",
+    "location": "Remote",
+    "description": "Collaborate across teams to deliver full-stack solutions.",
+    "jobDetails": {
+      "about": "Collaborate across teams to deliver full-stack solutions. You will work closely with the design and product teams.",
+      "salary": "$124k/year",
+      "skills": [
+        "Python",
+        "Django",
+        "PostgreSQL"
+      ],
+      "benefits": "Flexible hours, Health insurance, Remote work options"
+    }
+  },
+  {
+    "id": 23,
+    "title": "Frontend Developer",
+    "company": "VisionaryTech",
+    "location": "Sydney, Australia",
+    "description": "Build responsive applications with React and Tailwind CSS.",
+    "jobDetails": {
+      "about": "Build responsive applications with React and Tailwind CSS. You will work closely with the design and product teams.",
+      "salary": "$96k/year",
+      "skills": [
+        "TypeScript",
+        "Angular",
+        "Tailwind"
+      ],
+      "benefits": "Flexible hours, Health insurance, Remote work options"
+    }
+  },
+  {
+    "id": 24,
+    "title": "Machine Learning Engineer",
+    "company": "ByteCraft",
+    "location": "Colombo, Sri Lanka",
+    "description": "Build and optimize machine learning models for production.",
+    "jobDetails": {
+      "about": "Build and optimize machine learning models for production. You will work closely with the design and product teams.",
+      "salary": "$123k/year",
+      "skills": [
+        "TensorFlow",
+        "PyTorch",
+        "NumPy"
+      ],
+      "benefits": "Flexible hours, Health insurance, Remote work options"
+    }
+  },
+  {
+    "id": 25,
+    "title": "Frontend Developer",
+    "company": "SmartCode",
+    "location": "Paris, France",
+    "description": "Build responsive applications with React and Tailwind CSS.",
+    "jobDetails": {
+      "about": "Build responsive applications with React and Tailwind CSS. You will work closely with the design and product teams.",
+      "salary": "$74k/year",
+      "skills": [
+        "TypeScript",
+        "Angular",
+        "Tailwind"
+      ],
+      "benefits": "Flexible hours, Health insurance, Remote work options"
+    }
+  },
+  {
+    "id": 26,
+    "title": "Mobile App Developer",
+    "company": "VisionaryTech",
+    "location": "London, UK",
+    "description": "Develop cross-platform mobile applications using Flutter.",
+    "jobDetails": {
+      "about": "Develop cross-platform mobile applications using Flutter. You will work closely with the design and product teams.",
+      "salary": "$90k/year",
+      "skills": [
+        "Flutter",
+        "Dart",
+        "Firebase"
+      ],
+      "benefits": "Flexible hours, Health insurance, Remote work options"
+    }
+  },
+  {
+    "id": 27,
+    "title": "UI/UX Designer",
+    "company": "FusionApps",
+    "location": "Tokyo, Japan",
+    "description": "Design intuitive user interfaces with Figma and Adobe XD.",
+    "jobDetails": {
+      "about": "Design intuitive user interfaces with Figma and Adobe XD. You will work closely with the design and product teams.",
+      "salary": "$117k/year",
+      "skills": [
+        "JavaScript",
+        "React",
+        "Figma"
+      ],
+      "benefits": "Flexible hours, Health insurance, Remote work options"
+    }
+  },
+  {
+    "id": 28,
+    "title": "Frontend Developer",
+    "company": "VisionaryTech",
+    "location": "Paris, France",
+    "description": "Build responsive applications with React and Tailwind CSS.",
+    "jobDetails": {
+      "about": "Build responsive applications with React and Tailwind CSS. You will work closely with the design and product teams.",
+      "salary": "$97k/year",
+      "skills": [
+        "TypeScript",
+        "Angular",
+        "Tailwind"
+      ],
+      "benefits": "Flexible hours, Health insurance, Remote work options"
+    }
+  },
+  {
+    "id": 29,
+    "title": "Machine Learning Engineer",
+    "company": "ByteCraft",
+    "location": "Berlin, Germany",
+    "description": "Build and optimize machine learning models for production.",
+    "jobDetails": {
+      "about": "Build and optimize machine learning models for production. You will work closely with the design and product teams.",
+      "salary": "$109k/year",
+      "skills": [
+        "TensorFlow",
+        "PyTorch",
+        "NumPy"
+      ],
+      "benefits": "Flexible hours, Health insurance, Remote work options"
+    }
+  },
+  {
+    "id": 30,
+    "title": "Frontend Developer",
+    "company": "InnovateX",
+    "location": "Paris, France",
+    "description": "Build responsive applications with React and Tailwind CSS.",
+    "jobDetails": {
+      "about": "Build responsive applications with React and Tailwind CSS. You will work closely with the design and product teams.",
+      "salary": "$97k/year",
+      "skills": [
+        "TypeScript",
+        "Angular",
+        "Tailwind"
+      ],
+      "benefits": "Flexible hours, Health insurance, Remote work options"
+    }
+  },
+  {
+    "id": 31,
+    "title": "DevOps Engineer",
+    "company": "InnovateX",
+    "location": "London, UK",
+    "description": "Maintain CI/CD pipelines and cloud infrastructure.",
+    "jobDetails": {
+      "about": "Maintain CI/CD pipelines and cloud infrastructure. You will work closely with the design and product teams.",
+      "salary": "$74k/year",
+      "skills": [
+        "Docker",
+        "Kubernetes",
+        "AWS"
+      ],
+      "benefits": "Flexible hours, Health insurance, Remote work options"
+    }
+  },
+  {
+    "id": 32,
+    "title": "Product Manager",
+    "company": "Creative Agency",
+    "location": "Paris, France",
+    "description": "Lead product development from ideation to launch.",
+    "jobDetails": {
+      "about": "Lead product development from ideation to launch. You will work closely with the design and product teams.",
+      "salary": "$139k/year",
+      "skills": [
+        "Agile",
+        "Scrum",
+        "JIRA"
+      ],
+      "benefits": "Flexible hours, Health insurance, Remote work options"
+    }
+  },
+  {
+    "id": 33,
+    "title": "Machine Learning Engineer",
+    "company": "TechNova",
+    "location": "Paris, France",
+    "description": "Build and optimize machine learning models for production.",
+    "jobDetails": {
+      "about": "Build and optimize machine learning models for production. You will work closely with the design and product teams.",
+      "salary": "$139k/year",
+      "skills": [
+        "TensorFlow",
+        "PyTorch",
+        "NumPy"
+      ],
+      "benefits": "Flexible hours, Health insurance, Remote work options"
+    }
+  },
+  {
+    "id": 34,
+    "title": "Frontend Developer",
+    "company": "InnovateX",
+    "location": "Sydney, Australia",
+    "description": "Build responsive applications with React and Tailwind CSS.",
+    "jobDetails": {
+      "about": "Build responsive applications with React and Tailwind CSS. You will work closely with the design and product teams.",
+      "salary": "$142k/year",
+      "skills": [
+        "TypeScript",
+        "Angular",
+        "Tailwind"
+      ],
+      "benefits": "Flexible hours, Health insurance, Remote work options"
+    }
+  },
+  {
+    "id": 35,
+    "title": "QA Tester",
+    "company": "TechNova",
+    "location": "Remote",
+    "description": "Conduct manual and automated testing for web apps.",
+    "jobDetails": {
+      "about": "Conduct manual and automated testing for web apps. You will work closely with the design and product teams.",
+      "salary": "$80k/year",
+      "skills": [
+        "Selenium",
+        "Jest",
+        "Cypress"
+      ],
+      "benefits": "Flexible hours, Health insurance, Remote work options"
+    }
+  },
+  {
+    "id": 36,
+    "title": "Data Analyst",
+    "company": "NextGenSoft",
+    "location": "Remote",
+    "description": "Analyze data and generate insights to support business decisions.",
+    "jobDetails": {
+      "about": "Analyze data and generate insights to support business decisions. You will work closely with the design and product teams.",
+      "salary": "$63k/year",
+      "skills": [
+        "SQL",
+        "Excel",
+        "Power BI"
+      ],
+      "benefits": "Flexible hours, Health insurance, Remote work options"
+    }
+  },
+  {
+    "id": 37,
+    "title": "Frontend Developer",
+    "company": "InnovateX",
+    "location": "New York, USA",
+    "description": "Build responsive applications with React and Tailwind CSS.",
+    "jobDetails": {
+      "about": "Build responsive applications with React and Tailwind CSS. You will work closely with the design and product teams.",
+      "salary": "$83k/year",
+      "skills": [
+        "TypeScript",
+        "Angular",
+        "Tailwind"
+      ],
+      "benefits": "Flexible hours, Health insurance, Remote work options"
+    }
+  },
+  {
+    "id": 38,
+    "title": "QA Tester",
+    "company": "FusionApps",
+    "location": "Bangalore, India",
+    "description": "Conduct manual and automated testing for web apps.",
+    "jobDetails": {
+      "about": "Conduct manual and automated testing for web apps. You will work closely with the design and product teams.",
+      "salary": "$89k/year",
+      "skills": [
+        "Selenium",
+        "Jest",
+        "Cypress"
+      ],
+      "benefits": "Flexible hours, Health insurance, Remote work options"
+    }
+  },
+  {
+    "id": 39,
+    "title": "Frontend Developer",
+    "company": "SmartCode",
+    "location": "Paris, France",
+    "description": "Build responsive applications with React and Tailwind CSS.",
+    "jobDetails": {
+      "about": "Build responsive applications with React and Tailwind CSS. You will work closely with the design and product teams.",
+      "salary": "$60k/year",
+      "skills": [
+        "TypeScript",
+        "Angular",
+        "Tailwind"
+      ],
+      "benefits": "Flexible hours, Health insurance, Remote work options"
+    }
+  },
+  {
+    "id": 40,
+    "title": "DevOps Engineer",
+    "company": "VisionaryTech",
+    "location": "Berlin, Germany",
+    "description": "Maintain CI/CD pipelines and cloud infrastructure.",
+    "jobDetails": {
+      "about": "Maintain CI/CD pipelines and cloud infrastructure. You will work closely with the design and product teams.",
+      "salary": "$102k/year",
+      "skills": [
+        "Docker",
+        "Kubernetes",
+        "AWS"
+      ],
+      "benefits": "Flexible hours, Health insurance, Remote work options"
+    }
+  },
+  {
+    "id": 41,
+    "title": "QA Tester",
+    "company": "InnovateX",
+    "location": "Remote",
+    "description": "Conduct manual and automated testing for web apps.",
+    "jobDetails": {
+      "about": "Conduct manual and automated testing for web apps. You will work closely with the design and product teams.",
+      "salary": "$51k/year",
+      "skills": [
+        "Selenium",
+        "Jest",
+        "Cypress"
+      ],
+      "benefits": "Flexible hours, Health insurance, Remote work options"
+    }
+  },
+  {
+    "id": 42,
+    "title": "Machine Learning Engineer",
+    "company": "NextGenSoft",
+    "location": "Sydney, Australia",
+    "description": "Build and optimize machine learning models for production.",
+    "jobDetails": {
+      "about": "Build and optimize machine learning models for production. You will work closely with the design and product teams.",
+      "salary": "$78k/year",
+      "skills": [
+        "TensorFlow",
+        "PyTorch",
+        "NumPy"
+      ],
+      "benefits": "Flexible hours, Health insurance, Remote work options"
+    }
+  },
+  {
+    "id": 43,
+    "title": "Product Manager",
+    "company": "InnovateX",
+    "location": "Toronto, Canada",
+    "description": "Lead product development from ideation to launch.",
+    "jobDetails": {
+      "about": "Lead product development from ideation to launch. You will work closely with the design and product teams.",
+      "salary": "$142k/year",
+      "skills": [
+        "Agile",
+        "Scrum",
+        "JIRA"
+      ],
+      "benefits": "Flexible hours, Health insurance, Remote work options"
+    }
+  },
+  {
+    "id": 44,
+    "title": "UI/UX Designer",
+    "company": "SmartCode",
+    "location": "New York, USA",
+    "description": "Design intuitive user interfaces with Figma and Adobe XD.",
+    "jobDetails": {
+      "about": "Design intuitive user interfaces with Figma and Adobe XD. You will work closely with the design and product teams.",
+      "salary": "$68k/year",
+      "skills": [
+        "JavaScript",
+        "React",
+        "Figma"
+      ],
+      "benefits": "Flexible hours, Health insurance, Remote work options"
+    }
+  },
+  {
+    "id": 45,
+    "title": "Product Manager",
+    "company": "Creative Agency",
+    "location": "Paris, France",
+    "description": "Lead product development from ideation to launch.",
+    "jobDetails": {
+      "about": "Lead product development from ideation to launch. You will work closely with the design and product teams.",
+      "salary": "$137k/year",
+      "skills": [
+        "Agile",
+        "Scrum",
+        "JIRA"
+      ],
+      "benefits": "Flexible hours, Health insurance, Remote work options"
+    }
+  },
+  {
+    "id": 46,
+    "title": "DevOps Engineer",
+    "company": "NextGenSoft",
+    "location": "Remote",
+    "description": "Maintain CI/CD pipelines and cloud infrastructure.",
+    "jobDetails": {
+      "about": "Maintain CI/CD pipelines and cloud infrastructure. You will work closely with the design and product teams.",
+      "salary": "$127k/year",
+      "skills": [
+        "Docker",
+        "Kubernetes",
+        "AWS"
+      ],
+      "benefits": "Flexible hours, Health insurance, Remote work options"
+    }
+  },
+  {
+    "id": 47,
+    "title": "Backend Developer",
+    "company": "SmartCode",
+    "location": "Colombo, Sri Lanka",
+    "description": "Develop scalable backend APIs using Node.js and Express.",
+    "jobDetails": {
+      "about": "Develop scalable backend APIs using Node.js and Express. You will work closely with the design and product teams.",
+      "salary": "$140k/year",
+      "skills": [
+        "Node.js",
+        "Express",
+        "MongoDB"
+      ],
+      "benefits": "Flexible hours, Health insurance, Remote work options"
+    }
+  },
+  {
+    "id": 48,
+    "title": "QA Tester",
+    "company": "InnovateX",
+    "location": "London, UK",
+    "description": "Conduct manual and automated testing for web apps.",
+    "jobDetails": {
+      "about": "Conduct manual and automated testing for web apps. You will work closely with the design and product teams.",
+      "salary": "$94k/year",
+      "skills": [
+        "Selenium",
+        "Jest",
+        "Cypress"
+      ],
+      "benefits": "Flexible hours, Health insurance, Remote work options"
+    }
+  },
+  {
+    "id": 49,
+    "title": "Frontend Developer",
+    "company": "SmartCode",
+    "location": "Remote",
+    "description": "Build responsive applications with React and Tailwind CSS.",
+    "jobDetails": {
+      "about": "Build responsive applications with React and Tailwind CSS. You will work closely with the design and product teams.",
+      "salary": "$87k/year",
+      "skills": [
+        "TypeScript",
+        "Angular",
+        "Tailwind"
+      ],
+      "benefits": "Flexible hours, Health insurance, Remote work options"
+    }
+  },
+  {
+    "id": 50,
+    "title": "Backend Developer",
+    "company": "SmartCode",
+    "location": "London, UK",
+    "description": "Develop scalable backend APIs using Node.js and Express.",
+    "jobDetails": {
+      "about": "Develop scalable backend APIs using Node.js and Express. You will work closely with the design and product teams.",
+      "salary": "$72k/year",
+      "skills": [
+        "Node.js",
+        "Express",
+        "MongoDB"
+      ],
+      "benefits": "Flexible hours, Health insurance, Remote work options"
+    }
+  },
+  {
+    "id": 51,
+    "title": "DevOps Engineer",
+    "company": "VisionaryTech",
+    "location": "New York, USA",
+    "description": "Maintain CI/CD pipelines and cloud infrastructure.",
+    "jobDetails": {
+      "about": "Maintain CI/CD pipelines and cloud infrastructure. You will work closely with the design and product teams.",
+      "salary": "$118k/year",
+      "skills": [
+        "Docker",
+        "Kubernetes",
+        "AWS"
+      ],
+      "benefits": "Flexible hours, Health insurance, Remote work options"
+    }
+  },
+  {
+    "id": 52,
+    "title": "DevOps Engineer",
+    "company": "InnovateX",
+    "location": "New York, USA",
+    "description": "Maintain CI/CD pipelines and cloud infrastructure.",
+    "jobDetails": {
+      "about": "Maintain CI/CD pipelines and cloud infrastructure. You will work closely with the design and product teams.",
+      "salary": "$124k/year",
+      "skills": [
+        "Docker",
+        "Kubernetes",
+        "AWS"
+      ],
+      "benefits": "Flexible hours, Health insurance, Remote work options"
+    }
+  },
+  {
+    "id": 53,
+    "title": "QA Tester",
+    "company": "VisionaryTech",
+    "location": "London, UK",
+    "description": "Conduct manual and automated testing for web apps.",
+    "jobDetails": {
+      "about": "Conduct manual and automated testing for web apps. You will work closely with the design and product teams.",
+      "salary": "$74k/year",
+      "skills": [
+        "Selenium",
+        "Jest",
+        "Cypress"
+      ],
+      "benefits": "Flexible hours, Health insurance, Remote work options"
+    }
+  },
+  {
+    "id": 54,
+    "title": "QA Tester",
+    "company": "DevSolutions",
+    "location": "Colombo, Sri Lanka",
+    "description": "Conduct manual and automated testing for web apps.",
+    "jobDetails": {
+      "about": "Conduct manual and automated testing for web apps. You will work closely with the design and product teams.",
+      "salary": "$105k/year",
+      "skills": [
+        "Selenium",
+        "Jest",
+        "Cypress"
+      ],
+      "benefits": "Flexible hours, Health insurance, Remote work options"
+    }
+  },
+  {
+    "id": 55,
+    "title": "Full Stack Engineer",
+    "company": "InnovateX",
+    "location": "Tokyo, Japan",
+    "description": "Collaborate across teams to deliver full-stack solutions.",
+    "jobDetails": {
+      "about": "Collaborate across teams to deliver full-stack solutions. You will work closely with the design and product teams.",
+      "salary": "$90k/year",
+      "skills": [
+        "Python",
+        "Django",
+        "PostgreSQL"
+      ],
+      "benefits": "Flexible hours, Health insurance, Remote work options"
+    }
+  },
+  {
+    "id": 56,
+    "title": "Frontend Developer",
+    "company": "DevSolutions",
+    "location": "New York, USA",
+    "description": "Build responsive applications with React and Tailwind CSS.",
+    "jobDetails": {
+      "about": "Build responsive applications with React and Tailwind CSS. You will work closely with the design and product teams.",
+      "salary": "$100k/year",
+      "skills": [
+        "TypeScript",
+        "Angular",
+        "Tailwind"
+      ],
+      "benefits": "Flexible hours, Health insurance, Remote work options"
+    }
+  },
+  {
+    "id": 57,
+    "title": "Product Manager",
+    "company": "SmartCode",
+    "location": "Tokyo, Japan",
+    "description": "Lead product development from ideation to launch.",
+    "jobDetails": {
+      "about": "Lead product development from ideation to launch. You will work closely with the design and product teams.",
+      "salary": "$73k/year",
+      "skills": [
+        "Agile",
+        "Scrum",
+        "JIRA"
+      ],
+      "benefits": "Flexible hours, Health insurance, Remote work options"
+    }
+  },
+  {
+    "id": 58,
+    "title": "Backend Developer",
+    "company": "ByteCraft",
+    "location": "Toronto, Canada",
+    "description": "Develop scalable backend APIs using Node.js and Express.",
+    "jobDetails": {
+      "about": "Develop scalable backend APIs using Node.js and Express. You will work closely with the design and product teams.",
+      "salary": "$115k/year",
+      "skills": [
+        "Node.js",
+        "Express",
+        "MongoDB"
+      ],
+      "benefits": "Flexible hours, Health insurance, Remote work options"
+    }
+  },
+  {
+    "id": 59,
+    "title": "Frontend Developer",
+    "company": "NextGenSoft",
+    "location": "Toronto, Canada",
+    "description": "Build responsive applications with React and Tailwind CSS.",
+    "jobDetails": {
+      "about": "Build responsive applications with React and Tailwind CSS. You will work closely with the design and product teams.",
+      "salary": "$124k/year",
+      "skills": [
+        "TypeScript",
+        "Angular",
+        "Tailwind"
+      ],
+      "benefits": "Flexible hours, Health insurance, Remote work options"
+    }
+  },
+  {
+    "id": 60,
+    "title": "Full Stack Engineer",
+    "company": "Creative Agency",
+    "location": "London, UK",
+    "description": "Collaborate across teams to deliver full-stack solutions.",
+    "jobDetails": {
+      "about": "Collaborate across teams to deliver full-stack solutions. You will work closely with the design and product teams.",
+      "salary": "$116k/year",
+      "skills": [
+        "Python",
+        "Django",
+        "PostgreSQL"
+      ],
+      "benefits": "Flexible hours, Health insurance, Remote work options"
+    }
+  },
+  {
+    "id": 61,
+    "title": "UI/UX Designer",
+    "company": "TechNova",
+    "location": "Toronto, Canada",
+    "description": "Design intuitive user interfaces with Figma and Adobe XD.",
+    "jobDetails": {
+      "about": "Design intuitive user interfaces with Figma and Adobe XD. You will work closely with the design and product teams.",
+      "salary": "$100k/year",
+      "skills": [
+        "JavaScript",
+        "React",
+        "Figma"
+      ],
+      "benefits": "Flexible hours, Health insurance, Remote work options"
+    }
+  },
+  {
+    "id": 62,
+    "title": "Frontend Developer",
+    "company": "SmartCode",
+    "location": "New York, USA",
+    "description": "Build responsive applications with React and Tailwind CSS.",
+    "jobDetails": {
+      "about": "Build responsive applications with React and Tailwind CSS. You will work closely with the design and product teams.",
+      "salary": "$109k/year",
+      "skills": [
+        "TypeScript",
+        "Angular",
+        "Tailwind"
+      ],
+      "benefits": "Flexible hours, Health insurance, Remote work options"
+    }
+  },
+  {
+    "id": 63,
+    "title": "Data Analyst",
+    "company": "Creative Agency",
+    "location": "Remote",
+    "description": "Analyze data and generate insights to support business decisions.",
+    "jobDetails": {
+      "about": "Analyze data and generate insights to support business decisions. You will work closely with the design and product teams.",
+      "salary": "$75k/year",
+      "skills": [
+        "SQL",
+        "Excel",
+        "Power BI"
+      ],
+      "benefits": "Flexible hours, Health insurance, Remote work options"
+    }
+  },
+  {
+    "id": 64,
+    "title": "Machine Learning Engineer",
+    "company": "NextGenSoft",
+    "location": "Toronto, Canada",
+    "description": "Build and optimize machine learning models for production.",
+    "jobDetails": {
+      "about": "Build and optimize machine learning models for production. You will work closely with the design and product teams.",
+      "salary": "$133k/year",
+      "skills": [
+        "TensorFlow",
+        "PyTorch",
+        "NumPy"
+      ],
+      "benefits": "Flexible hours, Health insurance, Remote work options"
+    }
+  },
+  {
+    "id": 65,
+    "title": "Product Manager",
+    "company": "NextGenSoft",
+    "location": "Toronto, Canada",
+    "description": "Lead product development from ideation to launch.",
+    "jobDetails": {
+      "about": "Lead product development from ideation to launch. You will work closely with the design and product teams.",
+      "salary": "$54k/year",
+      "skills": [
+        "Agile",
+        "Scrum",
+        "JIRA"
+      ],
+      "benefits": "Flexible hours, Health insurance, Remote work options"
+    }
+  },
+  {
+    "id": 66,
+    "title": "Machine Learning Engineer",
+    "company": "CloudCore",
+    "location": "Tokyo, Japan",
+    "description": "Build and optimize machine learning models for production.",
+    "jobDetails": {
+      "about": "Build and optimize machine learning models for production. You will work closely with the design and product teams.",
+      "salary": "$63k/year",
+      "skills": [
+        "TensorFlow",
+        "PyTorch",
+        "NumPy"
+      ],
+      "benefits": "Flexible hours, Health insurance, Remote work options"
+    }
+  },
+  {
+    "id": 67,
+    "title": "Frontend Developer",
+    "company": "VisionaryTech",
+    "location": "Paris, France",
+    "description": "Build responsive applications with React and Tailwind CSS.",
+    "jobDetails": {
+      "about": "Build responsive applications with React and Tailwind CSS. You will work closely with the design and product teams.",
+      "salary": "$144k/year",
+      "skills": [
+        "TypeScript",
+        "Angular",
+        "Tailwind"
+      ],
+      "benefits": "Flexible hours, Health insurance, Remote work options"
+    }
+  },
+  {
+    "id": 68,
+    "title": "Full Stack Engineer",
+    "company": "VisionaryTech",
+    "location": "Remote",
+    "description": "Collaborate across teams to deliver full-stack solutions.",
+    "jobDetails": {
+      "about": "Collaborate across teams to deliver full-stack solutions. You will work closely with the design and product teams.",
+      "salary": "$78k/year",
+      "skills": [
+        "Python",
+        "Django",
+        "PostgreSQL"
+      ],
+      "benefits": "Flexible hours, Health insurance, Remote work options"
+    }
+  },
+  {
+    "id": 69,
+    "title": "Frontend Developer",
+    "company": "FusionApps",
+    "location": "Bangalore, India",
+    "description": "Build responsive applications with React and Tailwind CSS.",
+    "jobDetails": {
+      "about": "Build responsive applications with React and Tailwind CSS. You will work closely with the design and product teams.",
+      "salary": "$147k/year",
+      "skills": [
+        "TypeScript",
+        "Angular",
+        "Tailwind"
+      ],
+      "benefits": "Flexible hours, Health insurance, Remote work options"
+    }
+  },
+  {
+    "id": 70,
+    "title": "Mobile App Developer",
+    "company": "NextGenSoft",
+    "location": "Berlin, Germany",
+    "description": "Develop cross-platform mobile applications using Flutter.",
+    "jobDetails": {
+      "about": "Develop cross-platform mobile applications using Flutter. You will work closely with the design and product teams.",
+      "salary": "$77k/year",
+      "skills": [
+        "Flutter",
+        "Dart",
+        "Firebase"
+      ],
+      "benefits": "Flexible hours, Health insurance, Remote work options"
+    }
+  },
+  {
+    "id": 71,
+    "title": "DevOps Engineer",
+    "company": "ByteCraft",
+    "location": "Colombo, Sri Lanka",
+    "description": "Maintain CI/CD pipelines and cloud infrastructure.",
+    "jobDetails": {
+      "about": "Maintain CI/CD pipelines and cloud infrastructure. You will work closely with the design and product teams.",
+      "salary": "$131k/year",
+      "skills": [
+        "Docker",
+        "Kubernetes",
+        "AWS"
+      ],
+      "benefits": "Flexible hours, Health insurance, Remote work options"
+    }
+  },
+  {
+    "id": 72,
+    "title": "UI/UX Designer",
+    "company": "ByteCraft",
+    "location": "Tokyo, Japan",
+    "description": "Design intuitive user interfaces with Figma and Adobe XD.",
+    "jobDetails": {
+      "about": "Design intuitive user interfaces with Figma and Adobe XD. You will work closely with the design and product teams.",
+      "salary": "$136k/year",
+      "skills": [
+        "JavaScript",
+        "React",
+        "Figma"
+      ],
+      "benefits": "Flexible hours, Health insurance, Remote work options"
+    }
+  },
+  {
+    "id": 73,
+    "title": "DevOps Engineer",
+    "company": "TechNova",
+    "location": "Sydney, Australia",
+    "description": "Maintain CI/CD pipelines and cloud infrastructure.",
+    "jobDetails": {
+      "about": "Maintain CI/CD pipelines and cloud infrastructure. You will work closely with the design and product teams.",
+      "salary": "$78k/year",
+      "skills": [
+        "Docker",
+        "Kubernetes",
+        "AWS"
+      ],
+      "benefits": "Flexible hours, Health insurance, Remote work options"
+    }
+  },
+  {
+    "id": 74,
+    "title": "Frontend Developer",
+    "company": "FusionApps",
+    "location": "Toronto, Canada",
+    "description": "Build responsive applications with React and Tailwind CSS.",
+    "jobDetails": {
+      "about": "Build responsive applications with React and Tailwind CSS. You will work closely with the design and product teams.",
+      "salary": "$109k/year",
+      "skills": [
+        "TypeScript",
+        "Angular",
+        "Tailwind"
+      ],
+      "benefits": "Flexible hours, Health insurance, Remote work options"
+    }
+  },
+  {
+    "id": 75,
+    "title": "Backend Developer",
+    "company": "InnovateX",
+    "location": "Colombo, Sri Lanka",
+    "description": "Develop scalable backend APIs using Node.js and Express.",
+    "jobDetails": {
+      "about": "Develop scalable backend APIs using Node.js and Express. You will work closely with the design and product teams.",
+      "salary": "$142k/year",
+      "skills": [
+        "Node.js",
+        "Express",
+        "MongoDB"
+      ],
+      "benefits": "Flexible hours, Health insurance, Remote work options"
+    }
+  },
+  {
+    "id": 76,
+    "title": "Machine Learning Engineer",
+    "company": "FusionApps",
+    "location": "Bangalore, India",
+    "description": "Build and optimize machine learning models for production.",
+    "jobDetails": {
+      "about": "Build and optimize machine learning models for production. You will work closely with the design and product teams.",
+      "salary": "$141k/year",
+      "skills": [
+        "TensorFlow",
+        "PyTorch",
+        "NumPy"
+      ],
+      "benefits": "Flexible hours, Health insurance, Remote work options"
+    }
+  },
+  {
+    "id": 77,
+    "title": "UI/UX Designer",
+    "company": "VisionaryTech",
+    "location": "Sydney, Australia",
+    "description": "Design intuitive user interfaces with Figma and Adobe XD.",
+    "jobDetails": {
+      "about": "Design intuitive user interfaces with Figma and Adobe XD. You will work closely with the design and product teams.",
+      "salary": "$145k/year",
+      "skills": [
+        "JavaScript",
+        "React",
+        "Figma"
+      ],
+      "benefits": "Flexible hours, Health insurance, Remote work options"
+    }
+  },
+  {
+    "id": 78,
+    "title": "Full Stack Engineer",
+    "company": "DevSolutions",
+    "location": "Bangalore, India",
+    "description": "Collaborate across teams to deliver full-stack solutions.",
+    "jobDetails": {
+      "about": "Collaborate across teams to deliver full-stack solutions. You will work closely with the design and product teams.",
+      "salary": "$82k/year",
+      "skills": [
+        "Python",
+        "Django",
+        "PostgreSQL"
+      ],
+      "benefits": "Flexible hours, Health insurance, Remote work options"
+    }
+  },
+  {
+    "id": 79,
+    "title": "Product Manager",
+    "company": "SmartCode",
+    "location": "Tokyo, Japan",
+    "description": "Lead product development from ideation to launch.",
+    "jobDetails": {
+      "about": "Lead product development from ideation to launch. You will work closely with the design and product teams.",
+      "salary": "$58k/year",
+      "skills": [
+        "Agile",
+        "Scrum",
+        "JIRA"
+      ],
+      "benefits": "Flexible hours, Health insurance, Remote work options"
+    }
+  },
+  {
+    "id": 80,
+    "title": "Machine Learning Engineer",
+    "company": "TechNova",
+    "location": "Bangalore, India",
+    "description": "Build and optimize machine learning models for production.",
+    "jobDetails": {
+      "about": "Build and optimize machine learning models for production. You will work closely with the design and product teams.",
+      "salary": "$75k/year",
+      "skills": [
+        "TensorFlow",
+        "PyTorch",
+        "NumPy"
+      ],
+      "benefits": "Flexible hours, Health insurance, Remote work options"
+    }
+  },
+  {
+    "id": 81,
+    "title": "QA Tester",
+    "company": "VisionaryTech",
+    "location": "Toronto, Canada",
+    "description": "Conduct manual and automated testing for web apps.",
+    "jobDetails": {
+      "about": "Conduct manual and automated testing for web apps. You will work closely with the design and product teams.",
+      "salary": "$59k/year",
+      "skills": [
+        "Selenium",
+        "Jest",
+        "Cypress"
+      ],
+      "benefits": "Flexible hours, Health insurance, Remote work options"
+    }
+  },
+  {
+    "id": 82,
+    "title": "Machine Learning Engineer",
+    "company": "VisionaryTech",
+    "location": "London, UK",
+    "description": "Build and optimize machine learning models for production.",
+    "jobDetails": {
+      "about": "Build and optimize machine learning models for production. You will work closely with the design and product teams.",
+      "salary": "$119k/year",
+      "skills": [
+        "TensorFlow",
+        "PyTorch",
+        "NumPy"
+      ],
+      "benefits": "Flexible hours, Health insurance, Remote work options"
+    }
+  },
+  {
+    "id": 83,
+    "title": "QA Tester",
+    "company": "VisionaryTech",
+    "location": "Tokyo, Japan",
+    "description": "Conduct manual and automated testing for web apps.",
+    "jobDetails": {
+      "about": "Conduct manual and automated testing for web apps. You will work closely with the design and product teams.",
+      "salary": "$64k/year",
+      "skills": [
+        "Selenium",
+        "Jest",
+        "Cypress"
+      ],
+      "benefits": "Flexible hours, Health insurance, Remote work options"
+    }
+  },
+  {
+    "id": 84,
+    "title": "Backend Developer",
+    "company": "FusionApps",
+    "location": "London, UK",
+    "description": "Develop scalable backend APIs using Node.js and Express.",
+    "jobDetails": {
+      "about": "Develop scalable backend APIs using Node.js and Express. You will work closely with the design and product teams.",
+      "salary": "$50k/year",
+      "skills": [
+        "Node.js",
+        "Express",
+        "MongoDB"
+      ],
+      "benefits": "Flexible hours, Health insurance, Remote work options"
+    }
+  },
+  {
+    "id": 85,
+    "title": "Full Stack Engineer",
+    "company": "VisionaryTech",
+    "location": "Sydney, Australia",
+    "description": "Collaborate across teams to deliver full-stack solutions.",
+    "jobDetails": {
+      "about": "Collaborate across teams to deliver full-stack solutions. You will work closely with the design and product teams.",
+      "salary": "$83k/year",
+      "skills": [
+        "Python",
+        "Django",
+        "PostgreSQL"
+      ],
+      "benefits": "Flexible hours, Health insurance, Remote work options"
+    }
+  },
+  {
+    "id": 86,
+    "title": "Mobile App Developer",
+    "company": "SmartCode",
+    "location": "London, UK",
+    "description": "Develop cross-platform mobile applications using Flutter.",
+    "jobDetails": {
+      "about": "Develop cross-platform mobile applications using Flutter. You will work closely with the design and product teams.",
+      "salary": "$106k/year",
+      "skills": [
+        "Flutter",
+        "Dart",
+        "Firebase"
+      ],
+      "benefits": "Flexible hours, Health insurance, Remote work options"
+    }
+  },
+  {
+    "id": 87,
+    "title": "DevOps Engineer",
+    "company": "NextGenSoft",
+    "location": "Toronto, Canada",
+    "description": "Maintain CI/CD pipelines and cloud infrastructure.",
+    "jobDetails": {
+      "about": "Maintain CI/CD pipelines and cloud infrastructure. You will work closely with the design and product teams.",
+      "salary": "$105k/year",
+      "skills": [
+        "Docker",
+        "Kubernetes",
+        "AWS"
+      ],
+      "benefits": "Flexible hours, Health insurance, Remote work options"
+    }
+  },
+  {
+    "id": 88,
+    "title": "Backend Developer",
+    "company": "InnovateX",
+    "location": "London, UK",
+    "description": "Develop scalable backend APIs using Node.js and Express.",
+    "jobDetails": {
+      "about": "Develop scalable backend APIs using Node.js and Express. You will work closely with the design and product teams.",
+      "salary": "$61k/year",
+      "skills": [
+        "Node.js",
+        "Express",
+        "MongoDB"
+      ],
+      "benefits": "Flexible hours, Health insurance, Remote work options"
+    }
+  },
+  {
+    "id": 89,
+    "title": "DevOps Engineer",
+    "company": "Creative Agency",
+    "location": "London, UK",
+    "description": "Maintain CI/CD pipelines and cloud infrastructure.",
+    "jobDetails": {
+      "about": "Maintain CI/CD pipelines and cloud infrastructure. You will work closely with the design and product teams.",
+      "salary": "$76k/year",
+      "skills": [
+        "Docker",
+        "Kubernetes",
+        "AWS"
+      ],
+      "benefits": "Flexible hours, Health insurance, Remote work options"
+    }
+  },
+  {
+    "id": 90,
+    "title": "Backend Developer",
+    "company": "TechNova",
+    "location": "New York, USA",
+    "description": "Develop scalable backend APIs using Node.js and Express.",
+    "jobDetails": {
+      "about": "Develop scalable backend APIs using Node.js and Express. You will work closely with the design and product teams.",
+      "salary": "$57k/year",
+      "skills": [
+        "Node.js",
+        "Express",
+        "MongoDB"
+      ],
+      "benefits": "Flexible hours, Health insurance, Remote work options"
+    }
+  },
+  {
+    "id": 91,
+    "title": "Frontend Developer",
+    "company": "SmartCode",
+    "location": "New York, USA",
+    "description": "Build responsive applications with React and Tailwind CSS.",
+    "jobDetails": {
+      "about": "Build responsive applications with React and Tailwind CSS. You will work closely with the design and product teams.",
+      "salary": "$71k/year",
+      "skills": [
+        "TypeScript",
+        "Angular",
+        "Tailwind"
+      ],
+      "benefits": "Flexible hours, Health insurance, Remote work options"
+    }
+  },
+  {
+    "id": 92,
+    "title": "QA Tester",
+    "company": "TechNova",
+    "location": "Remote",
+    "description": "Conduct manual and automated testing for web apps.",
+    "jobDetails": {
+      "about": "Conduct manual and automated testing for web apps. You will work closely with the design and product teams.",
+      "salary": "$109k/year",
+      "skills": [
+        "Selenium",
+        "Jest",
+        "Cypress"
+      ],
+      "benefits": "Flexible hours, Health insurance, Remote work options"
+    }
+  },
+  {
+    "id": 93,
+    "title": "Full Stack Engineer",
+    "company": "NextGenSoft",
+    "location": "Paris, France",
+    "description": "Collaborate across teams to deliver full-stack solutions.",
+    "jobDetails": {
+      "about": "Collaborate across teams to deliver full-stack solutions. You will work closely with the design and product teams.",
+      "salary": "$125k/year",
+      "skills": [
+        "Python",
+        "Django",
+        "PostgreSQL"
+      ],
+      "benefits": "Flexible hours, Health insurance, Remote work options"
+    }
+  },
+  {
+    "id": 94,
+    "title": "UI/UX Designer",
+    "company": "NextGenSoft",
+    "location": "Remote",
+    "description": "Design intuitive user interfaces with Figma and Adobe XD.",
+    "jobDetails": {
+      "about": "Design intuitive user interfaces with Figma and Adobe XD. You will work closely with the design and product teams.",
+      "salary": "$100k/year",
+      "skills": [
+        "JavaScript",
+        "React",
+        "Figma"
+      ],
+      "benefits": "Flexible hours, Health insurance, Remote work options"
+    }
+  },
+  {
+    "id": 95,
+    "title": "Machine Learning Engineer",
+    "company": "DevSolutions",
+    "location": "Tokyo, Japan",
+    "description": "Build and optimize machine learning models for production.",
+    "jobDetails": {
+      "about": "Build and optimize machine learning models for production. You will work closely with the design and product teams.",
+      "salary": "$69k/year",
+      "skills": [
+        "TensorFlow",
+        "PyTorch",
+        "NumPy"
+      ],
+      "benefits": "Flexible hours, Health insurance, Remote work options"
+    }
+  },
+  {
+    "id": 96,
+    "title": "Frontend Developer",
+    "company": "NextGenSoft",
+    "location": "New York, USA",
+    "description": "Build responsive applications with React and Tailwind CSS.",
+    "jobDetails": {
+      "about": "Build responsive applications with React and Tailwind CSS. You will work closely with the design and product teams.",
+      "salary": "$75k/year",
+      "skills": [
+        "TypeScript",
+        "Angular",
+        "Tailwind"
+      ],
+      "benefits": "Flexible hours, Health insurance, Remote work options"
+    }
+  },
+  {
+    "id": 97,
+    "title": "Frontend Developer",
+    "company": "Creative Agency",
+    "location": "Paris, France",
+    "description": "Build responsive applications with React and Tailwind CSS.",
+    "jobDetails": {
+      "about": "Build responsive applications with React and Tailwind CSS. You will work closely with the design and product teams.",
+      "salary": "$92k/year",
+      "skills": [
+        "TypeScript",
+        "Angular",
+        "Tailwind"
+      ],
+      "benefits": "Flexible hours, Health insurance, Remote work options"
+    }
+  },
+  {
+    "id": 98,
+    "title": "Data Analyst",
+    "company": "CloudCore",
+    "location": "Paris, France",
+    "description": "Analyze data and generate insights to support business decisions.",
+    "jobDetails": {
+      "about": "Analyze data and generate insights to support business decisions. You will work closely with the design and product teams.",
+      "salary": "$149k/year",
+      "skills": [
+        "SQL",
+        "Excel",
+        "Power BI"
+      ],
+      "benefits": "Flexible hours, Health insurance, Remote work options"
+    }
+  },
+  {
+    "id": 99,
+    "title": "Frontend Developer",
+    "company": "DevSolutions",
+    "location": "Berlin, Germany",
+    "description": "Build responsive applications with React and Tailwind CSS.",
+    "jobDetails": {
+      "about": "Build responsive applications with React and Tailwind CSS. You will work closely with the design and product teams.",
+      "salary": "$149k/year",
+      "skills": [
+        "TypeScript",
+        "Angular",
+        "Tailwind"
+      ],
+      "benefits": "Flexible hours, Health insurance, Remote work options"
+    }
+  },
+  {
+    "id": 100,
+    "title": "QA Tester",
+    "company": "DevSolutions",
+    "location": "Remote",
+    "description": "Conduct manual and automated testing for web apps.",
+    "jobDetails": {
+      "about": "Conduct manual and automated testing for web apps. You will work closely with the design and product teams.",
+      "salary": "$107k/year",
+      "skills": [
+        "Selenium",
+        "Jest",
+        "Cypress"
+      ],
+      "benefits": "Flexible hours, Health insurance, Remote work options"
+    }
+  }
+]

@@ -1,30 +1,11 @@
-import { NextResponse } from "next/server"
-type Job = {
-    id: number
-    title: string
-    company: string
-    location: string
-    description: string
-}
-
-const jobData: Job[]=[
-    {
-      id: 1,
-      title: 'UI/UX Designer',
-      company: 'Creative Agency',
-      location: 'Colombo, Sri Lanka',
-      description: 'Design intuitive user interfaces with Figma and Adobe XD.',
-    },
-    {
-      id: 2,
-      title: 'Frontend Developer',
-      company: 'TechNova',
-      location: 'Remote',
-      description: 'Build responsive React/Next.js applications.',
-    },
-]
+import { NextResponse } from 'next/server';
+import { promises as fs } from 'fs';
+import path from 'path';
 
 export async function GET() {
-  return NextResponse.json(jobData)
-}
+  const filePath = path.join(process.cwd(), 'public', 'data', 'job_data.json');
+  const fileContent = await fs.readFile(filePath, 'utf-8');
+  const jobData = JSON.parse(fileContent);
 
+  return NextResponse.json(jobData);
+}
