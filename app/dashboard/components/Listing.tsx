@@ -3,6 +3,7 @@ import { LucideEye } from "lucide-react";
 import { useEffect, useState } from "react";
 import JobDetails from "./JobDetail";
 import { getJobs } from '@/app/lib/jobStore';
+import { useJobContext } from "@/app/context/JobContext";
 
 
 type Job = {
@@ -15,18 +16,20 @@ type Job = {
 
 export default function Listing(){
 
-    const[jobTableData,setJobTableData] = useState<Job[]>([]);
+    const {jobs} = useJobContext()
+
+    const[jobTableData,setJobTableData] = useState<Job[]>(jobs);
     const[selectedJob,setSelectedJob] = useState<Job | null>(null);
     const[isDrawerOpen,setIsDrawerOpen] = useState(false);
 
-    useEffect(()=>{
-        const getJobData = async ()=>{
-            const res = await fetch('/api/jobs')
-            const data = await res.json()
-            setJobTableData(data)
-        }
-        getJobData();
-    },[])
+    // useEffect(()=>{
+    //     const getJobData = async ()=>{
+    //         const res = await fetch('/api/jobs')
+    //         const data = await res.json()
+    //         setJobTableData(data)
+    //     }
+    //     getJobData();
+    // },[])
 
     const openDrawer= (job: Job)=>{
         console.log(job)
