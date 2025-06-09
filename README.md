@@ -5,4 +5,4 @@ Step 1
 Step 2
   - Once finished downloading the node modules, Run "npm run dev" in your command prompt.
 
-You can access the working assignment (So far i have completed) "http://localhost:3000"
+You can access whatever inside these files in a working example in your browser on this url "http://localhost:3000"
